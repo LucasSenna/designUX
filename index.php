@@ -1,27 +1,37 @@
-<?php 
-    include('layout/header.php');
+<?php
+// HEADER
+include('layout/header.php');
 ?>
+
 <body>
-    
+    <!-- PLUGIN DO FADE IN -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+    <!-- MENU -->
     <?php include('layout/menu.php') ?>
 
-    <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
-</div>
-        </div>
-        <div id="main">
-            
+    <div id="main">
+        <!-- NAV TOP -->
         <?php include('layout/nav.php') ?>
-            
-<div class="main-content container-fluid">
-    
-    <section class="section">
-        
-    </section>
-</div>
+        <!-- CONTEUDO INICIO -->
+        <div class="main-content container-fluid">
+            <div class="page-title">
 
-            <?php include('layout/footer.php') ?>
-        </div>
-    </div>
-            <?php include('layout/js.php') ?>
+
+            </div> <!-- CLASS PAGE TITLE FIM -->
+        </div> <!-- CONTEUDO FIM -->
+
+        <!-- FOOTER -->
+        <?php include('layout/footer.php') ?>
+
+    </div> <!-- DIV MAIN FIM -->
+
+    <!-- FOOTER JS -->
+    <?php include('layout/js.php') ?>
+
 </body>
+
 </html>

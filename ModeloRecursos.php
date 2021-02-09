@@ -10,7 +10,7 @@
     </script>
     
     <!-- MENU -->
-    <?php include('Modulo01_Menu.php') ?>
+    <?php include('layout/menu.php') ?>
 
         <div id="main">
             <!-- NAV TOP -->
@@ -21,7 +21,7 @@
                     
                 <hr>
                     <!-- Título -->
-                    <p class="Titulo">Titulo</p>
+                    <h2 class="font-bold">Titulo</h2>
                 <hr>
                     <!-- Sub Título -->
                     <p class="SubTitulo">Sub_Titulo</p>
@@ -61,7 +61,7 @@
                 <hr>
                 <!-- Nota de Rodapé -->
                 <p class="NotaDeRodape"> Nota_de_Rodapé_fica_aqui</p>
-                <hr>
+                <hr>    
                 <!-- Atividade -->
                 <div>
                     <p class="AtividadeTitulo"> <br>Atividade</p>
