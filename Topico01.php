@@ -55,12 +55,13 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 1:</strong> Radio Bluetooth N80</p>
                     <a href="imagens/Figura01.png" data-toggle="lightbox" data-footer="Radio Bluetooth N80">
-                        <img class="img-fluid" src="imagens/Figura01.png" alt="Figura 1 - Radio Bluetooth N80">
+                        <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" data-wow-delay="0.6s" alt="Figura 1 - Radio Bluetooth N80">
                     </a>
                     <p class="FonteFigura">Fonte: autor.</p>
                 </div>
                 <hr>
 
+    
                 <p class="Texto">A resposta correta é o item d, mas provavelmente você escolheu um dos itens a, b ou c. Por que isso acontece?</p>
 
                 <p class="Texto">Isso acontece porque guardamos lembranças dos dispositivos que já utilizamos. Este componente visual e físico lembra botões que aumentam volume ou têm outras ações conhecidas de outros rádios que já utilizamos. Tornar um item que se assemelha a um botão como item decorativo é algo que pode confundir quem o utiliza. O design de um produto ou de um processo deve ser algo bem estruturado e pautado em quem o utiliza, que chamaremos de <strong>usuário</strong>.</p>

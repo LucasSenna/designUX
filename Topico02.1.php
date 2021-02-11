@@ -28,7 +28,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 3:</strong> Principais conceitos de IHC</p>
                     <a href="imagens/Figura03.png" data-toggle="lightbox" data-footer="Principais conceitos de IHC">
-                        <img class="img-fluid" src="imagens/Figura03.png" alt="Figura 3 - Principais conceitos de IHC">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura03.png" alt="Figura 3 - Principais conceitos de IHC">
                     </a>
                     <p class="fonte FonteFigura"> Barbosa e Silva, 2010 </p>
                 </div>
@@ -49,7 +49,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 4:</strong> Abordagens de desenvolvimento</p>
                     <a href="imagens/Figura04.png" data-toggle="lightbox" data-footer="Abordagens de desenvolvimento">
-                        <img class="img-fluid" src="imagens/Figura04.png" alt="Figura 4 - Abordagens de desenvolvimento">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura04.png" alt="Figura 4 - Abordagens de desenvolvimento">
                     </a>
                     <p class="fonte FonteFigura"> Barbosa e Silva, 2010 </p>
                 </div>

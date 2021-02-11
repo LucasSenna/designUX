@@ -29,7 +29,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 13:</strong> Prototipação</p>
                     <a href="imagens/Figura13.png" data-toggle="lightbox" data-footer="Prototipação">
-                        <img class="img-fluid" src="imagens/Figura13.png" alt="Figura 13 - Prototipação">
+                        <img class="img-fluid wow fadeInDown" src="imagens/Figura13.png" alt="Figura 13 - Prototipação">
                     </a>
                     <p class="FonteFigura">Fonte: Ironhack ux design</p>
                 </div>

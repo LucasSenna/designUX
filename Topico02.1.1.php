@@ -30,6 +30,7 @@ include('layout/header.php');
                 <p class="Texto">É também parte da natureza da interação que se compreenda os objetivos de uso de um sistema, por exemplo, produtividade ou capacitação do usuário. É neste âmbito que deve se discutir qual a consequência da interação do uso de um sistema para as pessoas e para sociedade.</p>
 
                 <p class="Texto"><strong>Você em algum momento já ouviu seu telefone tocar ou vibrar sem ele estar tocando de fato</strong>? Se sim, este fenômeno pode ser considerado como a “Síndrome do Toque Fantasma”. Ele pode estar relacionado à nomofobia.</p>
+                <hr>
 
                 <div>
                     <p class="CuriosidadeTitulo"> Curiosidade</p>
@@ -45,6 +46,7 @@ include('layout/header.php');
                 <p class="Texto">Outro transtorno relacionado que causa comportamentos não esperados do indivíduo em sociedade é a “Invisibilidade Social”. A invisibilidade social vem sendo bastante explorada em filmes e séries que trazem a tecnologia como tema principal. Dois filmes que trazem essa discussão de forma mais leve são: o filme “<strong>avião</strong>” , que explora de forma divertida a falta do celular em uma jovem que é influenciadora digital e é obrigada a ir à casa do avô, onde não pega rede de celular, após pôr em risco sua própria vida em função da vida digital; e o filme “<strong>Nada a esconder</strong>” , que coloca em discussão o impacto das informações pessoais que recebemos pelos celulares em um jogo entre amigos. Apesar de a discussão nestes filmes ocorrer de forma mais leve, o problema é sério e pode desenvolver transtornos mais graves. </p>
 
                 <p class="Texto">Você já se deu conta destes efeitos e de como o design tem responsabilidade sobre isto? Em outro exemplo recente, o documentário <strong>“O Dilema das Redes” expõe uma opinião</strong> sobre a manipulação sofrida pelos usuários das redes sociais com o objetivo de propiciar ganhos financeiros às empresas, analisando o papel das redes sociais e os danos que elas causam à sociedade.</p>
+                <hr>
 
                 <div>
                     <p class="AtividadeTitulo"> <br>Atividade 01</p>
@@ -57,7 +59,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 5:</strong> Documento da UNESCO sobre gêneros em sistemas computacionais</p>
                     <a href="imagens/Figura05.png" data-toggle="lightbox" data-footer="Documento da UNESCO sobre gêneros em sistemas computacionais">
-                        <img class="img-fluid" src="imagens/Figura05.png" alt="Figura 05 - Documento da UNESCO sobre gêneros em sistemas computacionais">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura05.png" alt="Figura 05 - Documento da UNESCO sobre gêneros em sistemas computacionais">
                     </a>
                     <p class="FonteFigura">Fonte: UNESCO</p>
                 </div>
@@ -70,7 +72,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 6:</strong> Evolução das embalagens do produto Reprodução </p>
                     <a href="imagens/Figura06.png" data-toggle="lightbox" data-footer="Evolução das embalagens do produto Reprodução ">
-                        <img class="img-fluid" src="imagens/Figura06.png" alt="Figura 06 - Evolução das embalagens do produto Reprodução ">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura06.png" alt="Figura 06 - Evolução das embalagens do produto Reprodução ">
                     </a>
                     <p class="FonteFigura">Fonte: Veja SP, 2017</p>
                 </div>

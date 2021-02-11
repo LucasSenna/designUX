@@ -37,7 +37,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 9.1:</strong> Contexto de uso </p>
                             <a href="imagens/Figura09.1.png" data-toggle="lightbox" data-footer="Contexto de uso ">
-                                <img class="img-fluid" src="imagens/Figura09.1.png" alt="Figura 07 - Contexto de uso ">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura09.1.png" alt="Figura 07 - Contexto de uso ">
                             </a>
                             <p class="FonteFigura">Fonte: Google</p>
                         </div>
@@ -46,7 +46,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 9.2:</strong> Contexto de desenvolvimento </p>
                             <a href="imagens/Figura09.2.png" data-toggle="lightbox" data-footer="Contexto de desenvolvimento ">
-                                <img class="img-fluid" src="imagens/Figura09.2.png" alt="Figura 07 - Contexto de desenvolvimento ">
+                                <img class="img-fluid wow fadeInRight" src="imagens/Figura09.2.png" alt="Figura 07 - Contexto de desenvolvimento ">
                             </a>
                             <p class="FonteFigura">Fonte: Google</p>
                         </div>
@@ -65,7 +65,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 10:</strong> Sistema - Interface - Usuário</p>
                     <a href="imagens/Figura10.png" data-toggle="lightbox" data-footer="Sistema - Interface - Usuário">
-                        <img class="img-fluid" src="imagens/Figura10.png" alt="Figura 10 - Sistema - Interface - Usuário">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura10.png" alt="Figura 10 - Sistema - Interface - Usuário">
                     </a>
                     <p class="FonteFigura">Fonte: Blog Thiago Esser</p>
                 </div>
@@ -87,7 +87,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 11:</strong> Modelo mental de leitura no iPad</p>
                     <a href="imagens/Figura11.png" data-toggle="lightbox" data-footer="Modelo mental de leitura no iPad">
-                        <img class="img-fluid" src="imagens/Figura11.png" alt="Figura 11 - Modelo mental de leitura no iPad">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura11.png" alt="Figura 11 - Modelo mental de leitura no iPad">
                     </a>
                     <p class="FonteFigura">Fonte: UXMag</p>
                 </div>

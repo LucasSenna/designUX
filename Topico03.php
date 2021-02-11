@@ -26,6 +26,7 @@ include('layout/header.php');
                 <p class="Texto">Experiência de usuário é uma área multidisciplinar de estudo, que ao longo do tempo evoluiu a partir de disciplinas diferentes. Experiência de usuário é o estudo do uso que as pessoas fazem de artefatos por meio de atividades guiadas e essa base vem das ciências de comportamento, especificamente ergonomia, psicologia e ‘human factors’ (Macedo, 2014).</p>
 
                 <p class="Texto">A evolução do termo ao que conhecemos hoje é resultado de mais de 30 anos em pesquisas científicas aplicadas no mercado. Contar essa história será sempre de uma forma breve, já que não é possível contar a história de todas as disciplinas que esse tema abrange. Vamos agora voltar no tempo para conhecer onde essas disciplinas se encontram para resolver problemas no uso de sistemas.</p>
+                <hr>
 
                 <div>
                     <p class="SubTitulo">1857 - Ergonomia</p>
@@ -51,7 +52,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 14:</strong> Uma esteira rolante industrial no filme “Tempos Modernos”</p>
                     <a href="imagens/Figura14.gif" data-toggle="lightbox" data-footer="Uma esteira rolante industrial no filme “Tempos Modernos”">
-                        <img class="img-fluid" src="imagens/Figura14.gif" alt="Figura 14 - Uma esteira rolante industrial no filme “Tempos Modernos”">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura14.gif" alt="Figura 14 - Uma esteira rolante industrial no filme “Tempos Modernos”">
                     </a>
                     <p class="fonte FonteFigura"> Google </p>
                 </div>
@@ -70,7 +71,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 15:</strong> Casal GilbrethContexto de uso </p>
                             <a href="imagens/Figura15.png" data-toggle="lightbox" data-footer="Casal Gilbreth">
-                                <img class="img-fluid" src="imagens/Figura15.png" alt="Figura 15 - Casal Gilbreth ">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura15.png" alt="Figura 15 - Casal Gilbreth ">
                             </a>
                             <p class="FonteFigura">Fonte: Portal Gestão</p>
                         </div>
@@ -79,7 +80,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 15.1:</strong> Livro sobre análise de tempos e movimentos. </p>
                             <a href="imagens/Figura15.1.png" data-toggle="lightbox" data-footer="Livro sobre análise de tempos e movimentos.">
-                                <img class="img-fluid" src="imagens/Figura15.1.png" alt="Figura 15 - Livro sobre análise de tempos e movimentos.">
+                                <img class="img-fluid wow fadeInRight" src="imagens/Figura15.1.png" alt="Figura 15 - Livro sobre análise de tempos e movimentos.">
                             </a>
                             <p class="FonteFigura">Fonte: Blog Marília UNESP
                             </p>
@@ -102,7 +103,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 16:</strong> Wilhelm Wundt e sua equipe no laboratório de psicologia aplicada na Universidade de Leipzig, Alemanha</p>
                     <a href="imagens/Figura16.png" data-toggle="lightbox" data-footer="Wilhelm Wundt e sua equipe no laboratório de psicologia aplicada na Universidade de Leipzig, Alemanha">
-                        <img class="img-fluid" src="imagens/Figura16.png" alt="Figura 16 - Wilhelm Wundt e sua equipe no laboratório de psicologia aplicada na Universidade de Leipzig, Alemanha”">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura16.png" alt="Figura 16 - Wilhelm Wundt e sua equipe no laboratório de psicologia aplicada na Universidade de Leipzig, Alemanha”">
                     </a>
                     <p class="fonte FonteFigura"> Psicoativo </p>
                 </div>
@@ -151,7 +152,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 17:</strong> Don Norman</p>
                     <a href="imagens/Figura17.png" data-toggle="lightbox" data-footer="Don Norman">
-                        <img class="img-fluid" src="imagens/Figura17.png" alt="Figura 17 - Don Norman">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura17.png" alt="Figura 17 - Don Norman">
                     </a>
                     <p class="fonte FonteFigura"> UXDesign </p>
                 </div>
@@ -182,7 +183,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 18:</strong> Jakob Nielsen</p>
                     <a href="imagens/Figura18.png" data-toggle="lightbox" data-footer="Jakob Nielsen">
-                        <img class="img-fluid" src="imagens/Figura18.png" alt="Figura 18 - Jakob Nielsen">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura18.png" alt="Figura 18 - Jakob Nielsen">
                     </a>
                     <p class="fonte FonteFigura"> Google </p>
                 </div>

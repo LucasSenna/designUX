@@ -103,6 +103,9 @@ include('layout/header.php');
 
                 <div class="text-center">
                     <a href="Topico06.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
+                    <a href="#" type="button" class="btn btn-outline-success btn-sm">AVALIAÇÃO</a>
+                </div>
+
                 </div>
 
                 <!-- SCRIPT LIGHTBOX -->

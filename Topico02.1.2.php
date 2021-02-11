@@ -36,7 +36,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 7:</strong> Contexto de uso </p>
                             <a href="imagens/Figura07.png" data-toggle="lightbox" data-footer="Contexto de uso ">
-                                <img class="img-fluid" src="imagens/Figura07.png" alt="Figura 07 - Contexto de uso ">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura07.png" alt="Figura 07 - Contexto de uso ">
                             </a>
                             <p class="FonteFigura">Fonte: Vídeo do Instituto Socioambiental</p>
                         </div>
@@ -45,7 +45,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 7.1:</strong> Contexto de desenvolvimento </p>
                             <a href="imagens/Figura07.1.png" data-toggle="lightbox" data-footer="Contexto de desenvolvimento ">
-                                <img class="img-fluid" src="imagens/Figura07.1.png" alt="Figura 07 - Contexto de desenvolvimento ">
+                                <img class="img-fluid wow fadeInRight" src="imagens/Figura07.1.png" alt="Figura 07 - Contexto de desenvolvimento ">
                             </a>
                             <p class="FonteFigura">Fonte: Pexels</p>
                         </div>
@@ -60,21 +60,21 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 8:</strong> Linguagens e contextos de uso</p>
                     <a href="imagens/Figura08.png" data-toggle="lightbox" data-footer="Abordagens de desenvolvimento">
-                        <img class="img-fluid" src="imagens/Figura08.png" alt="Figura 8 - Linguagens e contextos de uso">
+                        <img class="img-fluid wow fadeInDown" src="imagens/Figura08.png" alt="Figura 8 - Linguagens e contextos de uso">
                     </a>
                     <br><br>
                     <a href="imagens/Figura08.1.png" data-toggle="lightbox" data-footer="Abordagens de desenvolvimento">
-                        <img class="img-fluid" src="imagens/Figura08.1.png" alt="Figura 8 - Linguagens e contextos de uso">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura08.1.png" data-wow-delay="0.6s" alt="Figura 8 - Linguagens e contextos de uso">
                     </a>
                     <br><br>
                     <a href="imagens/Figura08.2.png" data-toggle="lightbox" data-footer="Abordagens de desenvolvimento">
-                        <img class="img-fluid" src="imagens/Figura08.2.png" alt="Figura 8 - Linguagens e contextos de uso">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura08.2.png" alt="Figura 8 - Linguagens e contextos de uso">
                     </a>
                     <p class="FonteFigura">Fontes: (1) Worldpackers e (2) Google Chrome e (3) Dropbox Paper</p>
                 </div>
                 <hr>
 
-                <p class="Texto"> O contexto de uso pode destacar uma cultura, como mostra o artigo científico “<em>Kawaii/ Interação fofa</em>", do inglês “<em>Kawaii/Cute Interactive Media</em>”, (Cheok, 2010). Se você já teve contato com cultura japonesa possivelmente já ouviu falar sobre o termo Kawaii. De acordo com o artigo, a aplicação de elementos considerados fofos em sistemas interativos tem raízes na estética de muitos elementos históricos e culturais, como a cultura japonesa Kawaii. Nesse estudo o autor percebeu que há uma correlação entre o que se percebe como atraente e bonito em interfaces com a presença de elementos fofos. Esta é uma forma de mostrar a ligação do design à cultura.</p>
+                <p class="Texto"> O contexto de uso pode destacar uma cultura, como mostra o artigo científico “<em>Kawaii/ Interação fofa</em>", do inglês “<em>Kawaii/Cute Interactive Media</em>”, (Cheok, 2010). Se você já teve contato com cultura japonesa possivelmente já ouviu falar sobre o termo Kawaii. De acordo com o artigo, a aplicação de elementos considerados fofos em sistemas interativos tem raízes na estética de muitos elementos históricos e culturais, como a cultura japonesa Kawaii. Nesse estudo o autor percebeu que há uma correlação entre o que se percebe como atraente e bonito em interfaces com a presença de elementos fofos. Esta é uma forma de mostrar a ligação do design à cultura.</p><hr>
 
                 <div>
                     <p class="CuriosidadeTitulo"> Curiosidade</p>

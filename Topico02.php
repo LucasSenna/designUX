@@ -32,7 +32,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 2:</strong> Abordagens de desenvolvimento</p>
                     <a href="imagens/Figura02.png" data-toggle="lightbox" data-footer="Abordagens de desenvolvimento">
-                        <img class="img-fluid" src="imagens/Figura02.png" alt="Figura 2 - RAbordagens de desenvolvimento">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura02.png" alt="Figura 2 - RAbordagens de desenvolvimento">
                     </a>
                     <p class="FonteFigura">Barbosa e Silva, 2010.</p>
                 </div>

@@ -1,5 +1,7 @@
 
 <script type="text/javascript" src="/assets/js/jquery-3.3.1.js"></script>
+<script type="text/javascript" src="/assets/js/mdb.js"></script>
+<script type="text/javascript" src="/assets/js/wow.min.js"></script>
 
 <script src="/assets/js/feather-icons/feather.min.js"></script>
 <script src="/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
