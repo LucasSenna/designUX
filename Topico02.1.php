@@ -63,6 +63,7 @@ include('layout/header.php');
                 <p class="Texto">Do lado do computador, que hoje representa uma infinidade de dispositivos, como smartphones, relógios inteligentes (smartwatches), dispositivos de assistentes inteligentes e outros, temos uma variedade de tecnologias desenvolvidas para dar suporte à interação com humanos. Essas tecnologias estabelecem <strong>dispositivos de entrada e saída</strong> que conectam o humano e a máquina. Estes dispositivos, também conhecidos por periféricos, que podem ser teclados, câmeras e até batimentos cardíacos, são usados a partir de várias <strong>técnicas</strong> para organizar um diálogo. Essas técnicas, por sua vez, são usadas para implementar elementos de design maiores, como a metáfora da interface. Aprofundando-se nos substratos da máquina que dão suporte ao diálogo, o diálogo pode fazer uso extensivo de técnicas de computação gráfica. </p>
 
                 <p class="Texto">Nas seções seguintes vamos expandir cada uma das cinco áreas de estudo para compreender melhor essas conexões e a importância da presença de IHC na construção de sistemas.</p>
+                <br><br>
 
                 <div class="text-center">
                     <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>

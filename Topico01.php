@@ -55,7 +55,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 1:</strong> Radio Bluetooth N80</p>
                     <a href="imagens/Figura01.png" data-toggle="lightbox" data-footer="Radio Bluetooth N80">
-                        <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" data-wow-delay="0.6s" alt="Figura 1 - Radio Bluetooth N80">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura01.png" data-wow-delay="0.6s" alt="Figura 1 - Radio Bluetooth N80">
                     </a>
                     <p class="FonteFigura">Fonte: autor.</p>
                 </div>
@@ -77,6 +77,7 @@ include('layout/header.php');
                 </p>
 
                 <p class="Texto">Estas perguntas podem ser direcionadas somente ao “botão”, um item da interface, mas também podem ser aplicadas de forma global ao produto. Em alguns aspectos do design UX, é possível mensurar até a experiência completa que se inicia na compra ou no ato de desembalar o produto da caixa após comprar. Vamos à teoria?</p>
+                <br><br>
 
                 <div class="text-center">
                     <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Próxima página</a>
