@@ -1,36 +1,37 @@
-<?php 
-    // HEADER
-    include('layout/header.php');
+<?php
+// HEADER
+include('layout/header.php');
 ?>
+
 <body>
     <!-- PLUGIN DO FADE IN -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
         AOS.init();
     </script>
-    
+
     <!-- MENU -->
     <?php include('layout/menu.php') ?>
 
-        <div id="main">
-            <!-- NAV TOP -->
-            <?php include('layout/nav.php') ?>
-            <!-- CONTEUDO INICIO -->
-            <div class="main-content container-fluid">
-                <div class="page-title">
-                    
+    <div id="main">
+        <!-- NAV TOP -->
+        <?php include('layout/nav.php') ?>
+        <!-- CONTEUDO INICIO -->
+        <div class="main-content container-fluid">
+            <div class="page-title">
+
                 <hr>
-                    <!-- Título -->
-                    <h2 class="font-bold">Titulo</h2>
+                <!-- Título -->
+                <h2 class="font-bold">Titulo</h2>
                 <hr>
-                    <!-- Sub Título -->
-                    <p class="SubTitulo">Sub_Titulo</p>
+                <!-- Sub Título -->
+                <p class="SubTitulo">Sub_Titulo</p>
                 <hr>
-                    <!-- Sub Sub Título -->
-                    <p class="SubSubTitulo">Sub_Sub_Titulo</p>
+                <!-- Sub Sub Título -->
+                <p class="SubSubTitulo">Sub_Sub_Titulo</p>
                 <hr>
-                    <!-- Texto -->
-                    <p class="Texto">Texto</p>
+                <!-- Texto -->
+                <p class="Texto">Texto</p>
                 <hr>
                 <!-- Importante -->
                 <div>
@@ -61,11 +62,14 @@
                 <hr>
                 <!-- Nota de Rodapé -->
                 <p class="NotaDeRodape"> Nota_de_Rodapé_fica_aqui</p>
-                <hr>    
+                <hr>
                 <!-- Atividade -->
                 <div>
-                    <p class="AtividadeTitulo"> <br>Atividade</p>
+                    <p class="AtividadeTitulo"> Atividade</p>
                     <p class="AtividadeTexto">Texto_do_Atividade</p>
+                    <p class="Texto">
+                        <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
+                    </p>
                 </div>
                 <hr>
                 <!-- Saiba Mais -->
@@ -74,25 +78,26 @@
                     <p class="SaibaMaisTexto">Texto_do_Saiba Mais</p>
                 </div>
 
-                    
+
                 <!-- SCRIPT LIGHTBOX -->
                 <script>
                     $(document).on('click', '[data-toggle="lightbox"]', function(event) {
                         event.preventDefault();
                         $(this).ekkoLightbox();
-                    });                    
+                    });
                 </script>
 
-                </div> <!-- CLASS PAGE TITLE FIM -->
-            </div> <!-- CONTEUDO FIM -->
-            
-            <!-- FOOTER -->
-            <?php include('layout/footer.php') ?>
-        
-        </div> <!-- DIV MAIN FIM -->
-        
-        <!-- FOOTER JS -->
-        <?php include('layout/js.php') ?>
+            </div> <!-- CLASS PAGE TITLE FIM -->
+        </div> <!-- CONTEUDO FIM -->
+
+        <!-- FOOTER -->
+        <?php include('layout/footer.php') ?>
+
+    </div> <!-- DIV MAIN FIM -->
+
+    <!-- FOOTER JS -->
+    <?php include('layout/js.php') ?>
 
 </body>
+
 </html>

@@ -51,6 +51,9 @@ include('layout/header.php');
                 <div>
                     <p class="AtividadeTitulo"> <br>Atividade 5</p>
                     <p class="AtividadeTexto">Escolha três aplicativos do seu celular e tente descrever um perfil de usuário e de cliente para cada.</p>
+                    <p class="Texto">
+                        <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
+                    </p>
                 </div>
                 <hr>
 

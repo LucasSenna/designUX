@@ -4,12 +4,13 @@
             <div class="sidebar-wrapper active ps ps--active-y">
                 <div class="m-4">
                     <a href="index.php">
-                        <img class="img-fluid" src="http://ava.egp.ce.gov.br/2018/desv/logo/egp.png" alt="Logo EGPCE" srcset="">
+                        <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE" srcset="">
                     </a>
                 </div>
+                <br>
                 <div class="sidebar-menu ">
                     <ul class="menu">
-                        <!--  <li class="sidebar-item">
+                        <!--  <li class="sidebar-item">\
                         <a href="../Apresentacao.php" class="sidebar-link">
                             <i data-feather="home" width="20"></i>
                             <span>Apresentação</span>
@@ -33,8 +34,8 @@
                                         <i data-feather="home" width="20"></i>
                                         <span>2.0 - Interação Humano - Computador</span>
                                     </a>
-                                </li>      
-                         
+                                </li>
+
                                 <li class="sidebar-item">
                                     <a href="Topico02.1.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
@@ -47,8 +48,8 @@
                                         <i data-feather="home" width="20"></i>
                                         <span>2.1.1 - Natureza da interação</span>
                                     </a>
-                                </li>                
-            
+                                </li>
+
                                 <li class="sidebar-item">
                                     <a href="Topico02.1.2.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>

@@ -49,8 +49,12 @@ include('layout/header.php');
                 <hr>
 
                 <div>
-                    <p class="AtividadeTitulo"> <br>Atividade 01</p>
+
+                    <p class="AtividadeTitulo"> Atividade 01</p>
                     <p class="AtividadeTexto">Veja o documentário “O dilema das redes” e escreva um parágrafo fazendo um paralelo do conteúdo do documentário com design de sistemas.</p>
+                    <p class="Texto">
+                        <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
+                    </p>
                 </div>
                 <hr>
 

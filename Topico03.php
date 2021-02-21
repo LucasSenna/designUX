@@ -43,11 +43,13 @@ include('layout/header.php');
                     <p class="SubTitulo">1885 - Pós-Revolução Industrial</p>
                     <p class="Texto">Após o período da Revolução Industrial, o legado dos novos ambientes de trabalho manteve a necessidade de compreender como funcionários poderiam interagir com máquinas ou processos para entregar resultados de forma mais eficiente. A produtividade era o centro da produção Fordista e Taylorista, comumente aplicados na época.</p>
                 </div>
+                <hr>
 
                 <div>
                     <p class="SaibaMaisTitulo"> Saiba Mais</p>
                     <p class="SaibaMaisTexto">O <strong>Taylorismo</strong> e o <strong>Fordismo</strong> enfatizaram os princípios de fabricação. O Taylorismo iniciou a partir do estudo da mão de obra na produção industrial, organizando o trabalho de modo a obter grande produtividade com menor custo. O Fordismo manteve o mecanismo de produção e organização semelhante ao taylorismo, porém adicionou a esteira rolante, ditando um novo ritmo de trabalho. O filme “Tempos Modernos” de Charlie Chaplin representa bem esse estilo, como pode ser visto na Figura 14. </p>
                 </div>
+                <hr>
 
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 14:</strong> Uma esteira rolante industrial no filme “Tempos Modernos”</p>
@@ -69,7 +71,7 @@ include('layout/header.php');
                 <div class="row">
                     <div class="col">
                         <div class="text-center">
-                            <p class="TituloFigura"><strong>Figura 15:</strong> Casal GilbrethContexto de uso </p>
+                            <p class="TituloFigura"><strong>Figura 15:</strong> Casal Gilbreth Contexto de uso </p>
                             <a href="imagens/Figura15.png" data-toggle="lightbox" data-footer="Casal Gilbreth">
                                 <img class="img-fluid wow fadeInLeft" src="imagens/Figura15.png" alt="Figura 15 - Casal Gilbreth ">
                             </a>
@@ -126,6 +128,7 @@ include('layout/header.php');
                         <p class="SaibaMaisTitulo"> Saiba Mais</p>
                         <p class="SaibaMaisTexto">O livro intitulado “<em>Information Anxiety</em>” (WURMAN, 1991), traduzido para português como “Ansiedade de informação: como transformar informação em compreensão”, defende que <strong>não temos explosão de informação, mas sim de dados</strong>. Segundo Wurman, há uma distância grande entre os dados se tornarem informação, que é ainda maior para se tornarem algo compreensível. </p>
                     </div>
+                    <hr>
 
                     <div>
                         <p class="CuriosidadeTitulo"> Curiosidade</p>
@@ -215,6 +218,9 @@ include('layout/header.php');
                         <p class="AtividadeTitulo"> Atividade 4 </p>
                         <p class="AtividadeTexto">
                             Após conhecer a história e os termos importantes para UX, relembre dois sistemas que você já utilizou e apresentaram uma interação ruim. Quais pontos destas interfaces eram marcantes para esta interação ruim? Tente utilizar os termos históricos de UX.
+                        </p>
+                        <p class="Texto">
+                            <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
                         </p>
                     </div>
                     <hr>

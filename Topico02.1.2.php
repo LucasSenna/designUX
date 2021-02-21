@@ -74,7 +74,8 @@ include('layout/header.php');
                 </div>
                 <hr>
 
-                <p class="Texto"> O contexto de uso pode destacar uma cultura, como mostra o artigo científico “<em>Kawaii/ Interação fofa</em>", do inglês “<em>Kawaii/Cute Interactive Media</em>”, (Cheok, 2010). Se você já teve contato com cultura japonesa possivelmente já ouviu falar sobre o termo Kawaii. De acordo com o artigo, a aplicação de elementos considerados fofos em sistemas interativos tem raízes na estética de muitos elementos históricos e culturais, como a cultura japonesa Kawaii. Nesse estudo o autor percebeu que há uma correlação entre o que se percebe como atraente e bonito em interfaces com a presença de elementos fofos. Esta é uma forma de mostrar a ligação do design à cultura.</p><hr>
+                <p class="Texto"> O contexto de uso pode destacar uma cultura, como mostra o artigo científico “<em>Kawaii/ Interação fofa</em>", do inglês “<em>Kawaii/Cute Interactive Media</em>”, (Cheok, 2010). Se você já teve contato com cultura japonesa possivelmente já ouviu falar sobre o termo Kawaii. De acordo com o artigo, a aplicação de elementos considerados fofos em sistemas interativos tem raízes na estética de muitos elementos históricos e culturais, como a cultura japonesa Kawaii. Nesse estudo o autor percebeu que há uma correlação entre o que se percebe como atraente e bonito em interfaces com a presença de elementos fofos. Esta é uma forma de mostrar a ligação do design à cultura.</p>
+                <hr>
 
                 <div>
                     <p class="CuriosidadeTitulo"> Curiosidade</p>
@@ -89,6 +90,8 @@ include('layout/header.php');
                     <p class="AtividadeTexto">
                         Faça uma busca de imagens no Google ou outro buscador de sua preferência utilizando o termo “kawaii” e perceba sua reação inicial.
                     </p>
+                    <p class="Texto">
+                        <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
                 </div>
                 <hr>
                 <br><br>

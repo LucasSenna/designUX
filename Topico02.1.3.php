@@ -106,26 +106,30 @@ include('layout/header.php');
                 <p class="Texto">Para entender por que os modelos mentais são tão importantes para projetar interfaces de usuário, você também precisa entender o que é um modelo conceitual. Um <strong>modelo conceitual</strong> é o modelo real que é fornecido ao usuário por meio da interface do produto (Weinschenk, 2010). No exemplo da leitura do livro no iPad, você tem um modelo mental sobre como será a leitura de um livro no dispositivo, como funcionará e o que você pode fazer com o dispositivo pela interface. Mas quando você senta com o iPad, o “sistema” (o iPad) exibe o que o modelo conceitual do aplicativo de livro realmente é. O <strong>modelo conceitual é formado por telas, botões e ações que acontecem independente do que você esperava</strong> (Weinschenk, 2010). A interface real representa o modelo conceitual. Alguém projetou uma interface. </p>
 
                 <p class="Texto">Encerramos esta sessão de características humanas com dois conceitos importantes para design UX: modelos conceituais e modelos mentais. O designer, ou quem tenha esse papel na equipe, é um elo entre os dois modelos. Com técnicas apropriadas e uma visão ampla dos projetos, ele é capaz de reduzir a distância entre o que se espera (modelo mental) do que se projeta e constrói (modelo conceitual).</p>
+                <hr>
 
                 <div>
+
                     <p class="AtividadeTitulo"> Atividade 3</p>
                     <p class="AtividadeTexto">
                         Aponte a câmera do seu celular para o QRCode e veja o vídeo “Uninvited Guests”, “Convidados não convidados” em português. Se não conseguir acessar com o código, <a href="https://vimeo.com/128873380" target="_blank">CLIQUE AQUI</a>. Agora responda com base nos conceitos apresentados:
                         <br>
-                        <div class=" AtividadeTexto pl-5">
-                            1. Descreva a interface desse sistema.<br>
-                            2. Como você imagina que os modelos conceituais e mentais se integram nesse sistema?<br>
-                            3. Que problemas você vê nas diferenças entre o modelo conceitual e mental desse sistema?<br>
-                        </div>
+                    <div class=" AtividadeTexto pl-5">
+                        1. Descreva a interface desse sistema.<br>
+                        2. Como você imagina que os modelos conceituais e mentais se integram nesse sistema?<br>
+                        3. Que problemas você vê nas diferenças entre o modelo conceitual e mental desse sistema?<br>
+                    </div>
                     </p>
                     <div class="text-center">
                         <img src="imagens/QrCode2.png" class="rounded" alt="QrCode2">
                     </div>
                 </div>
             </div>
-            <hr>
+            <p class="Texto">
+                <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
+                <hr>
 
-            <br><br>
+                <br><br>
 
             <div class="text-center">
                 <a href="Topico02.1.2.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>

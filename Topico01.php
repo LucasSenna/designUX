@@ -24,6 +24,7 @@ include('layout/header.php');
                 <hr>
 
                 <p class="Texto">Antes de entender o que é de fato design UX, ou design de experiência do usuário, precisamos entender conceitos fundamentais da área. O que vamos aprender neste curso são os conceitos básicos, a história e quem é o usuário. Ao longo deste material vamos chamar de design UX, como é comumente chamado no mundo da tecnologia da informação. UX é um acrônimo do termo inglês User eXperience, que em português é <strong>experiência do usuário</strong>.</p>
+                <hr>
 
                 <div>
                     <p class="ImportanteTitulo"> Importante</p>
